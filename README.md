@@ -10,4 +10,4 @@
 
 ## 使用说明
 
-查看[帮助手册](https://gitee.com/xiaochoubao666/quadro/blob/master/%E5%B8%AE%E5%8A%A9%E6%89%8B%E5%86%8C.md)
+查看[帮助手册](/blob/master/%E5%B8%AE%E5%8A%A9%E6%89%8B%E5%86%8C.md)
